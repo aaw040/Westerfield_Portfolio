@@ -1,6 +1,6 @@
 # Python Portfolio
 
-This is the portfolio of python code that I learned during BISC 4503
+This is the portfolio of python code that I learned during BISC 4503 Fall 2025
 
 ## Analyzing Patient Data
 
